@@ -78,5 +78,5 @@ function handleNoClick() {
 }
 
 function handleYesClick() {
-    window.location.href = "yespage.html";
+    window.location.href = "yes_page.html";
 }
